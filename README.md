@@ -6,6 +6,7 @@ There is block with SQL queries, building seller journey map with different sale
 ### I. SQL block  
   
 Ad-hoc queries from different tables used in OZON - "SQL block OZON.md" file  
+
 -----------------------------------------------
 ### II. Case study block
 
